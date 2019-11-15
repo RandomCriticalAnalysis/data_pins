@@ -1,5 +1,0 @@
-- path: pins3/hce
-  name: hce
-  rows: 5752
-  cols: 8
-  type: table
