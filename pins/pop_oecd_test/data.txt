@@ -1,0 +1,10 @@
+path:
+- data.csv
+- data.rds
+rows: 2334
+cols: 3
+columns:
+  location: character
+  year: integer
+  pop: numeric
+type: table
