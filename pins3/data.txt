@@ -1,0 +1,6 @@
+- path: pins3/population_oecd
+  name: population_oecd
+  rows: 2334
+  cols: 3
+  description: OECD population estimates (national concept)
+  type: table
