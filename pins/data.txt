@@ -1,0 +1,5 @@
+- path: pins/pop_oecd_test
+  name: pop_oecd_test
+  rows: 2334
+  cols: 3
+  type: table
