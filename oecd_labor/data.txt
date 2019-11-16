@@ -1,0 +1,23 @@
+path:
+- data.csv
+- data.rds
+rows: 2334
+cols: 15
+columns:
+  location: character
+  year: integer
+  labor_health_FTE: numeric
+  labor_health_HRS: numeric
+  labor_health_JOB: numeric
+  labor_health_PER: numeric
+  labor_total_FTE: numeric
+  labor_total_HRS: numeric
+  labor_total_JOB: numeric
+  labor_total_PER: numeric
+  labor_health_per_capita: numeric
+  labor_total_per_capita: numeric
+  labor_health_share_PER: numeric
+  labor_health_share_FTE: numeric
+  labor_health_share_JOB: numeric
+description: OECD labor statistics for health and total (people, jobs, FTEs, hours)
+type: table
