@@ -1,0 +1,30 @@
+path:
+- data.csv
+- data.rds
+rows: 5729
+cols: 21
+columns:
+  location: character
+  year: integer
+  multiplier_type: character
+  vaact_health_cfc: numeric
+  vaact_health_coe: numeric
+  vaact_health_coewage: numeric
+  vaact_health_gosmi: numeric
+  vaact_health_gva: numeric
+  vaact_health_interc: numeric
+  vaact_health_nosmi: numeric
+  vaact_health_out: numeric
+  vaact_health_taxsub: numeric
+  vaact_total_cfc: numeric
+  vaact_total_coe: numeric
+  vaact_total_coewage: numeric
+  vaact_total_gosmi: numeric
+  vaact_total_gva: numeric
+  vaact_total_interc: numeric
+  vaact_total_nosmi: numeric
+  vaact_total_out: numeric
+  vaact_total_taxsub: numeric
+description: OECD GVA, Compensation, Net Income, etc by Activity for Health and Overall.
+  Corresponds to the oecd_labor_by_activity pin (hours, people, etc)
+type: table
