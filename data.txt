@@ -31,3 +31,9 @@
   description: OECD disposable income at the national level (all sectors combined),
     plus GNI, etc
   type: table
+- path: oecd_health_employment
+  name: oecd_health_employment
+  rows: 1262
+  cols: 17
+  description: OECD health employment via SNA (doctors, nurses, midwives, etc)
+  type: table
