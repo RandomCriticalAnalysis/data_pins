@@ -8,7 +8,8 @@
   name: oecd_labor
   rows: 2334
   cols: 15
-  description: OECD labor statistics for health and total (people, jobs, FTEs, hours)
+  description: OECD labor statistics for health and overall via SNA (people, jobs,
+    FTEs, hours)
   type: table
 - path: oecd_income_by_sector
   name: oecd_income_by_sector
