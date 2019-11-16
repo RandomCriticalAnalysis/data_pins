@@ -36,5 +36,5 @@
   name: oecd_health_employment
   rows: 1262
   cols: 17
-  description: OECD health employment via SNA (doctors, nurses, midwives, etc)
+  description: OECD health employment via SHA (doctors, nurses, midwives, etc)
   type: table
