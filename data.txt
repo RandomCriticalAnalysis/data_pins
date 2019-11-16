@@ -38,3 +38,10 @@
   cols: 17
   description: OECD health employment via SHA (doctors, nurses, midwives, etc)
   type: table
+- path: oecd_labor_by_activity
+  name: oecd_labor_by_activity
+  rows: 2334
+  cols: 15
+  description: OECD labor statistics for health and overall via SNA (people, jobs,
+    FTEs, hours)
+  type: table
