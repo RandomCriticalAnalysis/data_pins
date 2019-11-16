@@ -1,0 +1,92 @@
+path:
+- data.csv
+- data.rds
+rows: 9795
+cols: 83
+columns:
+  location: character
+  year: integer
+  multiplier_type: character
+  sha_health_exp: numeric
+  sna1_aic: numeric
+  sna1_changes_in_inventories: numeric
+  sna1_domestic_demand: numeric
+  sna1_exports: numeric
+  sna1_final_consumption: numeric
+  sna1_gdp: numeric
+  sna1_gov_consumption_all: numeric
+  sna1_gov_consumption_col: numeric
+  sna1_gov_consumption_ind: numeric
+  sna1_gross_capital_formation: numeric
+  sna1_gross_fixed_capital_formation: numeric
+  sna1_hh_consumption: numeric
+  sna1_imports: numeric
+  sna1_net_exports: numeric
+  sna2_cfc: numeric
+  sna2_consumption: numeric
+  sna2_gdi: numeric
+  sna2_gdp: numeric
+  sna2_gndi: numeric
+  sna2_gni_mkt: numeric
+  sna2_net_primary: numeric
+  sna2_net_secondary: numeric
+  sna2_nndi: numeric
+  sna2_nni_mkt: numeric
+  sna2_saving_net: numeric
+  nfa_agdi_fin: numeric
+  nfa_agdi_hh: numeric
+  nfa_agdi_nfc: numeric
+  nfa_agdi_tot: numeric
+  nfa_andi_fin: numeric
+  nfa_andi_hh: numeric
+  nfa_andi_nfc: numeric
+  nfa_andi_tot: numeric
+  nfa_cfc_fin: numeric
+  nfa_cfc_hh: numeric
+  nfa_cfc_nfc: numeric
+  nfa_cfc_tot: numeric
+  nfa_gcf_fin: numeric
+  nfa_gcf_hh: numeric
+  nfa_gcf_nfc: numeric
+  nfa_gcf_tot: numeric
+  nfa_gdi_fin: numeric
+  nfa_gdi_hh: numeric
+  nfa_gdi_nfc: numeric
+  nfa_gdi_tot: numeric
+  nfa_gpi_fin: numeric
+  nfa_gpi_hh: numeric
+  nfa_gpi_nfc: numeric
+  nfa_gpi_tot: numeric
+  nfa_gs_fin: numeric
+  nfa_gs_hh: numeric
+  nfa_gs_nfc: numeric
+  nfa_gs_tot: numeric
+  nfa_ndi_fin: numeric
+  nfa_ndi_hh: numeric
+  nfa_ndi_nfc: numeric
+  nfa_ndi_tot: numeric
+  nfa_nl_fin: numeric
+  nfa_nl_hh: numeric
+  nfa_nl_nfc: numeric
+  nfa_nl_tot: numeric
+  vaact_health_cfc: numeric
+  vaact_health_coe: numeric
+  vaact_health_coewage: numeric
+  vaact_health_gosmi: numeric
+  vaact_health_gva: numeric
+  vaact_health_interc: numeric
+  vaact_health_nosmi: numeric
+  vaact_health_out: numeric
+  vaact_health_taxsub: numeric
+  vaact_total_cfc: numeric
+  vaact_total_coe: numeric
+  vaact_total_coewage: numeric
+  vaact_total_gosmi: numeric
+  vaact_total_gva: numeric
+  vaact_total_interc: numeric
+  vaact_total_nosmi: numeric
+  vaact_total_out: numeric
+  vaact_total_taxsub: numeric
+description: OECD compilation of income and consumption statistics (GDP, AIC, GNI,
+  HH Disposable Income, etc)
+type: table
