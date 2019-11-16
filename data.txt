@@ -52,3 +52,10 @@
   description: OECD GVA, Compensation, Net Income, etc by Activity for Health and
     Overall. Corresponds to the oecd_labor_by_activity pin (hours, people, etc)
   type: table
+- path: oecd_combined_expenditures
+  name: oecd_combined_expenditures
+  rows: 9795
+  cols: 83
+  description: OECD compilation of income and consumption statistics (GDP, AIC, GNI,
+    HH Disposable Income, etc)
+  type: table
