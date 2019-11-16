@@ -1,0 +1,6 @@
+- path: oecd_population
+  name: oecd_population
+  rows: 2334
+  cols: 3
+  description: OECD population data, national concept
+  type: table
