@@ -4,3 +4,9 @@
   cols: 3
   description: OECD population data, national concept
   type: table
+- path: oecd_labor
+  name: oecd_labor
+  rows: 2334
+  cols: 15
+  description: OECD labor statistics for health and total (people, jobs, FTEs, hours)
+  type: table
