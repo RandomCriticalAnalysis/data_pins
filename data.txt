@@ -55,7 +55,7 @@
 - path: oecd_combined_expenditures
   name: oecd_combined_expenditures
   rows: 9795
-  cols: 83
+  cols: 92
   description: OECD compilation of income and consumption statistics (GDP, AIC, GNI,
     HH Disposable Income, etc)
   type: table
