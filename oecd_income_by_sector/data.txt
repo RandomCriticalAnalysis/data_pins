@@ -2,44 +2,53 @@ path:
 - data.csv
 - data.rds
 rows: 5277
-cols: 39
+cols: 48
 columns:
   location: character
   year: integer
   multiplier_type: character
   nfa_agdi_fin: numeric
+  nfa_agdi_gov: numeric
   nfa_agdi_hh: numeric
   nfa_agdi_nfc: numeric
   nfa_agdi_tot: numeric
   nfa_andi_fin: numeric
+  nfa_andi_gov: numeric
   nfa_andi_hh: numeric
   nfa_andi_nfc: numeric
   nfa_andi_tot: numeric
   nfa_cfc_fin: numeric
+  nfa_cfc_gov: numeric
   nfa_cfc_hh: numeric
   nfa_cfc_nfc: numeric
   nfa_cfc_tot: numeric
   nfa_gcf_fin: numeric
+  nfa_gcf_gov: numeric
   nfa_gcf_hh: numeric
   nfa_gcf_nfc: numeric
   nfa_gcf_tot: numeric
   nfa_gdi_fin: numeric
+  nfa_gdi_gov: numeric
   nfa_gdi_hh: numeric
   nfa_gdi_nfc: numeric
   nfa_gdi_tot: numeric
   nfa_gpi_fin: numeric
+  nfa_gpi_gov: numeric
   nfa_gpi_hh: numeric
   nfa_gpi_nfc: numeric
   nfa_gpi_tot: numeric
   nfa_gs_fin: numeric
+  nfa_gs_gov: numeric
   nfa_gs_hh: numeric
   nfa_gs_nfc: numeric
   nfa_gs_tot: numeric
   nfa_ndi_fin: numeric
+  nfa_ndi_gov: numeric
   nfa_ndi_hh: numeric
   nfa_ndi_nfc: numeric
   nfa_ndi_tot: numeric
   nfa_nl_fin: numeric
+  nfa_nl_gov: numeric
   nfa_nl_hh: numeric
   nfa_nl_nfc: numeric
   nfa_nl_tot: numeric
