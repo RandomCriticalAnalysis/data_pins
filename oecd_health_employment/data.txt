@@ -1,0 +1,25 @@
+path:
+- data.csv
+- data.rds
+rows: 1262
+cols: 17
+columns:
+  location: character
+  year: integer
+  hospital_employment: numeric
+  hospital_hc_assistants: numeric
+  hospital_hc_other: numeric
+  hospital_non_hc_staff: numeric
+  pa_caring: numeric
+  pa_dentists: numeric
+  pa_midwives: numeric
+  pa_nurses_all: numeric
+  pa_nurses_assoc: numeric
+  pa_nurses_pro: numeric
+  pa_pharmacists: numeric
+  pa_physicians: numeric
+  prac_physiotherapists: numeric
+  total_hns: numeric
+  pa_usually_mentioned: numeric
+description: OECD health employment via SNA (doctors, nurses, midwives, etc)
+type: table
