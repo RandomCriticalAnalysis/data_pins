@@ -17,3 +17,10 @@
   description: OECD disposable income and related transactions by domestic sector
     (household, corp, govt)
   type: table
+- path: oecd_gdp_disaggregation
+  name: oecd_gdp_disaggregation
+  rows: 9795
+  cols: 17
+  description: OECD disaggregation of GDP expenditure method [GDP, AIC, (total) Final
+    Consumption, Net Exports, etc]
+  type: table
