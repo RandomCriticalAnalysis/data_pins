@@ -19,5 +19,6 @@ columns:
   labor_health_share_PER: numeric
   labor_health_share_FTE: numeric
   labor_health_share_JOB: numeric
-description: OECD labor statistics for health and total (people, jobs, FTEs, hours)
+description: OECD labor statistics for health and overall via SNA (people, jobs, FTEs,
+  hours)
 type: table
