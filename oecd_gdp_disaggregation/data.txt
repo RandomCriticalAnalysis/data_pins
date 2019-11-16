@@ -1,0 +1,26 @@
+path:
+- data.csv
+- data.rds
+rows: 9795
+cols: 17
+columns:
+  location: character
+  year: integer
+  multiplier_type: character
+  sna1_aic: numeric
+  sna1_changes_in_inventories: numeric
+  sna1_domestic_demand: numeric
+  sna1_exports: numeric
+  sna1_final_consumption: numeric
+  sna1_gdp: numeric
+  sna1_gov_consumption_all: numeric
+  sna1_gov_consumption_col: numeric
+  sna1_gov_consumption_ind: numeric
+  sna1_gross_capital_formation: numeric
+  sna1_gross_fixed_capital_formation: numeric
+  sna1_hh_consumption: numeric
+  sna1_imports: numeric
+  sna1_net_exports: numeric
+description: OECD disaggregation of GDP expenditure method [GDP, AIC, (total) Final
+  Consumption, Net Exports, etc]
+type: table
