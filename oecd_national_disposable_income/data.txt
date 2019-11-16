@@ -1,0 +1,23 @@
+path:
+- data.csv
+- data.rds
+rows: 8655
+cols: 14
+columns:
+  location: character
+  year: integer
+  multiplier_type: character
+  sna2_cfc: numeric
+  sna2_consumption: numeric
+  sna2_gdi: numeric
+  sna2_gdp: numeric
+  sna2_gndi: numeric
+  sna2_gni_mkt: numeric
+  sna2_net_primary: numeric
+  sna2_net_secondary: numeric
+  sna2_nndi: numeric
+  sna2_nni_mkt: numeric
+  sna2_saving_net: numeric
+description: OECD disposable income at the national level (all sectors combined),
+  plus GNI, etc
+type: table
