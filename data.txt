@@ -24,3 +24,10 @@
   description: OECD disaggregation of GDP expenditure method [GDP, AIC, (total) Final
     Consumption, Net Exports, etc]
   type: table
+- path: oecd_national_disposable_income
+  name: oecd_national_disposable_income
+  rows: 8655
+  cols: 14
+  description: OECD disposable income at the national level (all sectors combined),
+    plus GNI, etc
+  type: table
