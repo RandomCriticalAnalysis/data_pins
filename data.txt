@@ -61,7 +61,7 @@
   type: table
 - path: oecd_ppp_benchmark_2014
   name: oecd_ppp_benchmark_2014
-  rows: 2500
-  cols: 12
+  rows: 2250
+  cols: 14
   description: OECD 2014 PPP benchmark data
   type: table
