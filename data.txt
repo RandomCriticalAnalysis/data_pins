@@ -59,3 +59,9 @@
   description: OECD compilation of income and consumption statistics (GDP, AIC, GNI,
     HH Disposable Income, etc)
   type: table
+- path: oecd_ppp_benchmark_2014
+  name: oecd_ppp_benchmark_2014
+  rows: 2500
+  cols: 10
+  description: Compilation of OECD 2014 PPP benchmark data
+  type: table
