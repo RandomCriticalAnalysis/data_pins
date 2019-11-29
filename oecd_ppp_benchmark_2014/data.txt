@@ -1,8 +1,8 @@
 path:
 - data.csv
 - data.rds
-rows: 2500
-cols: 12
+rows: 2250
+cols: 14
 columns:
   location: character
   year: integer
@@ -14,6 +14,8 @@ columns:
   pppbm_real_expenditures_pc: numeric
   pppbm_rel_price_aic: numeric
   pppbm_rel_price_gdp: numeric
+  pppbm_spend_at_aic: numeric
+  pppbm_spend_at_gdp: numeric
   pppbm_share_of_aic: numeric
   pppbm_share_of_gdp: numeric
 description: OECD 2014 PPP benchmark data
