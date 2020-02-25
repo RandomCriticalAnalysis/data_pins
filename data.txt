@@ -20,7 +20,7 @@
   type: table
 - path: oecd_gdp_disaggregation
   name: oecd_gdp_disaggregation
-  rows: 9795
+  rows: 9809
   cols: 17
   description: OECD disaggregation of GDP expenditure method [GDP, AIC, (total) Final
     Consumption, Net Exports, etc]
