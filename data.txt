@@ -13,8 +13,8 @@
   type: table
 - path: oecd_income_by_sector
   name: oecd_income_by_sector
-  rows: 5277
-  cols: 48
+  rows: 5180
+  cols: 53
   description: OECD disposable income and related transactions by domestic sector
     (household, corp, govt)
   type: table
