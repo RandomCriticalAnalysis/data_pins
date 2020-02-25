@@ -47,7 +47,7 @@
   type: table
 - path: oecd_va_by_activity
   name: oecd_va_by_activity
-  rows: 5729
+  rows: 5788
   cols: 21
   description: OECD GVA, Compensation, Net Income, etc by Activity for Health and
     Overall. Corresponds to the oecd_labor_by_activity pin (hours, people, etc)
