@@ -27,7 +27,7 @@
   type: table
 - path: oecd_national_disposable_income
   name: oecd_national_disposable_income
-  rows: 8655
+  rows: 8730
   cols: 14
   description: OECD disposable income at the national level (all sectors combined),
     plus GNI, etc
