@@ -40,7 +40,7 @@
   type: table
 - path: oecd_labor_by_activity
   name: oecd_labor_by_activity
-  rows: 2334
+  rows: 2336
   cols: 15
   description: OECD labor statistics for health and overall via SNA (people, jobs,
     FTEs, hours)
