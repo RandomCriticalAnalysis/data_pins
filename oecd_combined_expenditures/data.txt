@@ -1,8 +1,8 @@
 path:
 - data.csv
 - data.rds
-rows: 9795
-cols: 92
+rows: 9809
+cols: 97
 columns:
   location: character
   year: integer
@@ -68,6 +68,11 @@ columns:
   nfa_gs_hh: numeric
   nfa_gs_nfc: numeric
   nfa_gs_tot: numeric
+  nfa_gva_fin: numeric
+  nfa_gva_gov: numeric
+  nfa_gva_hh: numeric
+  nfa_gva_nfc: numeric
+  nfa_gva_tot: numeric
   nfa_ndi_fin: numeric
   nfa_ndi_gov: numeric
   nfa_ndi_hh: numeric
